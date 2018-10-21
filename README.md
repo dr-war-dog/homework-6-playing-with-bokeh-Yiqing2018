@@ -1,5 +1,5 @@
 ![](https://ws1.sinaimg.cn/large/006tNbRwly1fvh59oez3dj304t04uaap.jpg)
-# Homework 5: Email Flow Network Visualization
+# Homework 6: EPlaying with Bokeh
 
 |Author|Yiqing Liu|
 |---|---
